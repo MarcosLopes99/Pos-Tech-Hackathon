@@ -11,7 +11,7 @@ Link para o Roboflow do projeto: ZZZ
 
 Projeto dividido em notebook de treinamento (training) e notebook de detecção (detection).
 
-###########################################################################################################
+####################
 
 DETECÇÃO DE MATERIAIS CORTANTES:
 
@@ -23,7 +23,7 @@ Um dos principais desafios da empresa é utilizar Inteligência Artificial para 
 
 A empresa tem o objetivo de validar a viabilidade dessa feature, e para isso será necessário fazer um MVP para detecção supervisionada desses objetos.
 
-###########################################################################################################
+####################
 
 OBJETIVOS:
 
@@ -32,7 +32,7 @@ OBJETIVOS:
 - Treinar o modelo
 - Desenvolver um sistema de alertas (pode ser e-mail)
 
-###########################################################################################################
+####################
 
 ENTREGÁVEL:
 
