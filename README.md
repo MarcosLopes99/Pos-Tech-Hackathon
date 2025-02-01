@@ -3,11 +3,11 @@
 - Marcos Lopes da Silva Junior - RM353763
 - Ricardo Báfica Pontes - RM353866
 
-Link para o vídeo apresentando o projeto: XXX
+Link para o vídeo apresentando o projeto: https://youtu.be/xg24tBZ_6Qk
 
-Link para o Google Drive do projeto: YYY
+Link para o Google Drive do projeto: https://drive.google.com/drive/folders/1t4HuKUUmmd-J29CkKJUHSI6jpNe_i49v?usp=sharing
 
-Link para o Roboflow do projeto: ZZZ
+Link para o Roboflow do projeto: https://app.roboflow.com/test-zeerx/knife_detection-roiuv
 
 Projeto dividido em notebook de treinamento (training) e notebook de detecção (detection).
 
