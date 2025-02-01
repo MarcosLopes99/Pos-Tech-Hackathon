@@ -11,6 +11,8 @@ Link para o Roboflow do projeto: https://app.roboflow.com/test-zeerx/knife_detec
 
 Projeto dividido em notebook de treinamento (training) e notebook de detecção (detection).
 
+Observação: na pasta "Arquivos adicionais" é possível encontrar o arquivo de aúdio utilizado para o alerta, o vídeo output produzido durante o vídeo de apresentação e um arquivo de texto com um link para download do modelo no Google Drive. Caso haja algum problema, o arquivo do modelo também está sendo disponibilizado na pasta entregue pelo Portal Pós-Tech.
+
 ####################
 
 DETECÇÃO DE MATERIAIS CORTANTES:
